@@ -1,0 +1,6 @@
+{
+  "name": "EixoRural",
+  "description": "Extração topológica de linhas centrais, suavização de curvas e geração de rotas conectadas para mapas de carreadores agrícolas a partir de camadas vetoriais de polígonos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
